@@ -1,2 +1,2 @@
-# Laboratorio1-APPTECWEB
-Web informativa HTML5 CSS3 INTEGRANTES GRUPO
+# Laboratorio1-APPTECWEB-Grupo 2
+Web informativa con HTML5 CSS3 sobre integrantes grupo 
