@@ -1,0 +1,84 @@
+/* Estilo global */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+/* Encabezado */
+header {
+  background-color: #00300a; 
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+#titulo-principal {
+  margin: 0;
+  font-size: 3rem;
+}
+
+.subtitulo {
+  margin-top: 5px;
+  font-size: 1.3rem;
+}
+
+/* Contenido principal */
+main {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+/* Secciones */
+.tarjeta-estudiante, #equipo {
+  background-color: beige;
+  margin-bottom: 25px; 
+  padding: 20px;
+  border-radius: 12px; 
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  border: 1px solid #85391d;
+}
+
+h2 {
+  margin-top: 0;
+  color: #85391d; 
+  font-size: 1.8rem;
+}
+
+h3 {
+  color: #1c052a; 
+  font-size: 1.4rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+/* Avatar */
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Lista de datos académicos */
+ul {
+  list-style-type: square; 
+  padding-left: 20px;
+}
+/* Proyectos */
+.proyecto {
+  margin-top: 15px;
+  padding-left: 10px;
+}
+
+/* Pie de página */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  font-size: 0.9rem;
+}
