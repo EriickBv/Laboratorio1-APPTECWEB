@@ -2,10 +2,10 @@
 Web informativa con HTML5 CSS3 sobre integrantes grupo
 
 # Integrantes:
-Pablo Urzúa
-Erick Brito
-Benjamin Inzunza
-Diego Ramos
+* Pablo Urzúa
+* Erick Brito
+* Benjamin Inzunza
+* Diego Ramos
 
 ## Descripción del Proyecto
 Este sitio web es un portafolio informativo de una sola página que presenta los perfiles académicos y proyectos de los integrantes del equipo.
